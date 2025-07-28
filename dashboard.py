@@ -33,4 +33,3 @@ elif chart_type == "Pie Chart":
 
 st.subheader("📋 Raw Data")
 st.dataframe(data)
-streamlit run c:\Users\Admin\Downloads\dashboard.py
